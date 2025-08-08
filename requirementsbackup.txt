@@ -1,0 +1,5 @@
+functions-framework==3.2.1
+google-analytics-data==0.16.1
+pandas==1.5.2
+google-auth==2.16.2
+pandas-gbq==0.19.1
