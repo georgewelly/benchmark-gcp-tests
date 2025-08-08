@@ -31,3 +31,6 @@ The repository demonstrates:
 
 ```bash
 pip install -r requirements.txt
+
+
+https://lookerstudio.google.com/reporting/3efb27ed-773b-4b6c-951c-e74f7e3ace67
